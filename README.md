@@ -20,6 +20,7 @@
 5 - 12. Git (Comandos Git indispensáveis no dia a dia do desenvolvedor. Colaboração com Fork, Pull Requests. FLuxo de trabalho GitFlow. Trabalho em conjunto e resolução de conflitos. Importância da colaboração e trabalho em equipe no desenvolvimento de software.)
 ```
 
+escrito na branch feature.
 ---
 
 #### Slides das aulas: https://padolabs.github.io
